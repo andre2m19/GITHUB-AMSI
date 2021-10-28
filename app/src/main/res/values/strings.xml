@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ProjetoAM</string>
+    <string name="stgEmail">Introduza o Email!</string>
+    <string name="stgPassword">Introduza a Password!</string>
+    <string name="stgLogin">Login</string>
+    <string name="stgWelcome">Welcome to:</string>
+    <string name="stgSlogan">Style your Auto</string>
 </resources>
