@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project/MyApplicationTestProject/app/src/main/res/drawable-anydpi/ic_Maps.xml" value="0.22135416666666666" />
+        <entry key="..\:/Project/MyApplicationTestProject/app/src/main/res/drawable-anydpi/ic_Qr_code.xml" value="0.22135416666666666" />
+        <entry key="..\:/Project/MyApplicationTestProject/app/src/main/res/layout/activity_app_item_menu.xml" value="0.21666666666666667" />
+        <entry key="..\:/Project/MyApplicationTestProject/app/src/main/res/layout/activity_app_main_menu.xml" value="0.22" />
+        <entry key="..\:/Project/MyApplicationTestProject/app/src/main/res/layout/activity_google_maps.xml" value="0.36666666666666664" />
+        <entry key="..\:/Project/MyApplicationTestProject/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Project/MyApplicationTestProject/app/src/main/res/layout/activity_main.xml" value="0.14628623188405798" />
+        <entry key="..\:/Project/MyApplicationTestProject/app/src/main/res/layout/activity_main_menu_test.xml" value="0.13272543059777103" />
+        <entry key="..\:/Project/MyApplicationTestProject/app/src/main/res/layout/activity_menu_test.xml" value="0.13272543059777103" />
+        <entry key="..\:/Project/MyApplicationTestProject/app/src/main/res/layout/activity_qr_code.xml" value="0.13272543059777103" />
+        <entry key="..\:/Project/MyApplicationTestProject/app/src/main/res/layout/activity_sign_up.xml" value="0.6788124156545209" />
+        <entry key="..\:/Project/MyApplicationTestProject/app/src/main/res/layout/app_bar_layout.xml" value="0.13272543059777103" />
+        <entry key="..\:/Project/MyApplicationTestProject/app/src/main/res/layout/nav_header_main.xml" value="0.13272543059777103" />
+        <entry key="..\:/Project/MyApplicationTestProject/app/src/main/res/layout/nav_item_menu_header.xml" value="0.21666666666666667" />
+        <entry key="..\:/Project/MyApplicationTestProject/app/src/main/res/layout/nav_main_menu_header.xml" value="0.33" />
+        <entry key="..\:/Project/MyApplicationTestProject/app/src/main/res/menu/activity_main_drawer.xml" value="0.22" />
+        <entry key="..\:/Project/MyApplicationTestProject/app/src/main/res/menu/drawer_item_menu.xml" value="0.3047619047619048" />
+        <entry key="..\:/Project/MyApplicationTestProject/app/src/main/res/menu/drawer_main_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projeto Android/MyApplicationTestProject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Projeto Android/MyApplicationTestProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Projeto Android/MyApplicationTestProject/app/src/main/res/layout/activity_app_main_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projeto Android/MyApplicationTestProject/app/src/main/res/layout/activity_google_maps.xml" value="0.5" />
+        <entry key="..\:/Projeto Android/MyApplicationTestProject/app/src/main/res/layout/activity_introdutory.xml" value="0.22" />
+        <entry key="..\:/Projeto Android/MyApplicationTestProject/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Projeto Android/MyApplicationTestProject/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Projeto Android/MyApplicationTestProject/app/src/main/res/layout/activity_qr_code.xml" value="0.35260416666666666" />
+        <entry key="..\:/Projeto Android/MyApplicationTestProject/app/src/main/res/layout/activity_sign_up.xml" value="0.3428442028985507" />
+        <entry key="..\:/Projeto Android/MyApplicationTestProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.34074074074074073" />
+        <entry key="..\:/Users/2190712/AndroidStudioProjects/MyApplicationTestProject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1671875" />
+        <entry key="..\:/Users/2190712/AndroidStudioProjects/MyApplicationTestProject/app/src/main/res/layout/activity_login.xml" value="0.15104166666666666" />
+        <entry key="..\:/Users/2190712/AndroidStudioProjects/MyApplicationTestProject/app/src/main/res/layout/activity_main.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
